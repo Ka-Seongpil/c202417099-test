@@ -4,5 +4,6 @@ public class Main {
 		System.out.println("가성필");
 		World.run();
 		Hello.run();
+		World.run2();
 	}
 }
